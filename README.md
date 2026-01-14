@@ -108,10 +108,6 @@ The application includes error handling for:
 - User authentication
 - Export to CSV/PDF
 
-## License
-
-This project is open source and available under the MIT License.
-
 ## Author
 
 [Akshaya Veena](https://github.com/AkshayaaVeena)
